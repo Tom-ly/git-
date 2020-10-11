@@ -14,5 +14,8 @@ func main() {
 	beego.SetStaticPath("/css","./static/css")
 
 	beego.Run()
+	//gi
+
+
 }
 
